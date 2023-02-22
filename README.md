@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋 I'm Prageeth :computer:
+- :mortar_board: Undergraduate at University of Sri Jayewardenepura
+- :bank: Working at TeamDMX
+- :abcd: Obsessed with teaching and instructing
+- :raising_hand: Cisco and Microsoft certified
+- :movie_camera: Ask me about movies
+- :email: How to reach me: prageethfndo@gmail.com
+- :suspect: Dmithri
 
-<!--
-**prageeth-fndo/prageeth-fndo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Badges</h2>
+<p align="center"><img src="cisco-certified-network-associate-routing-and-switching-ccna-routing-and-switching.png" width="300px" />
+<img src="MCSA-Windows-Server-2016-2019.png" width="300px" />
+<img src="image.png" width="300px" /></p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Connect on</h3>
+<a href="https://www.linkedin.com/in/prageeth-fdo-94179a222/"><img src="linkedin.png" width="64px" align=”center”/></a>
