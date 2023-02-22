@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Prageeth :computer:
 - :mortar_board: Undergraduate at University of Sri Jayewardenepura
-- :bank: Working at TeamDMX
+- :bank: Worked at hSenid Mobile Solution as a System Administrator intern
 - :abcd: Obsessed with teaching and instructing
 - :raising_hand: Cisco and Microsoft certified
 - :movie_camera: Ask me about movies
