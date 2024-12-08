@@ -1,11 +1,16 @@
 # Hi there 👋 I'm Prageeth :computer:
-- :mortar_board: Undergraduate at University of Sri Jayewardenepura
-- :bank: Worked at hSenid Mobile Solution as a System Administrator intern
-- :abcd: Obsessed with teaching and instructing
-- :raising_hand: Cisco and Microsoft certified
-- :movie_camera: Ask me about movies
-- :email: How to reach me: prageethfndo@gmail.com
+- 🎓 First-Class Graduate from the University of Sri Jayewardenepura, specialized in Networking Technology.
+- 🖥️ IT Operations Engineer at Atlas Populi (Pvt) Ltd.
+- 🎓 Currently pursuing an MSc in Cybersecurity at Sri Lanka Institute of Information Technology (SLIIT).
+- 🎙️ Passionate about teaching and tutoring, with experience in private tutoring.
+- 🌐 Cisco and Microsoft Certified.
+- 🔐 Research interests include user authentication, cybersecurity education, and the human factor in cybersecurity.
+- 🚴 Loves traveling around Sri Lanka, especially exploring scenic uphill areas by motorbike.
+- 🎥 Big fan of movies and music! Feel free to ask me for recommendations.
+- 📧 Reach me at: prageethfndo@gmail.com
+- 🤓 Always learning and exploring!
 - :suspect: Dmithri
+
 
 <h2>Badges</h2>
 <p align="center"><img src="cisco-certified-network-associate-routing-and-switching-ccna-routing-and-switching.png" width="300px" />
